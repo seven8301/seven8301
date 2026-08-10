@@ -4,49 +4,54 @@
 
 Master of Computer Science (Software Engineering) graduate with experience across business analysis, data analysis, project delivery and entrepreneurship.
 
-I enjoy turning business needs and data into practical solutions — from analysing customer and operational data to improving business processes and delivering data and AI solutions.
-
-## 🔍 What I Work With
-
-**Business Analysis:** Requirements Analysis • Process Mapping • BPMN • User Stories • Stakeholder Engagement • Process Improvement
-
-**Data & Analytics:** SQL • MySQL • Excel • Power BI • Python • Data Visualisation
-
-**AI & Technical:** YOLOv10-Nano • Computer Vision • Dataset Development • Git/GitHub • Agile • SDLC
+I enjoy turning business needs and data into practical solutions — from identifying business problems and analysing customer and operational data to improving processes and delivering data and AI projects.
 
 ## 🚀 Featured Projects
 
-### 🍳 AI-Powered Personal Recipe Recommendation System
+### 🔍 AI-Powered Personal Recipe Recommendation System
+**University of Wollongong Capstone Project | Project Leader | High Distinction (90/100)**
 
-**University of Wollongong Capstone Project — High Distinction (90/100)**
+Led a six-member team to design and deliver an AI-powered recipe recommendation system integrating computer vision, recommendation algorithms, a database, backend services and a mobile application.
 
-Led a six-member team in developing an AI-powered mobile application that identifies ingredients from images and provides personalised recipe recommendations.
-
-**My contributions:**
-- Led sprint planning, task allocation, milestone tracking and cross-functional project coordination
-- Translated project objectives and stakeholder feedback into requirements, user stories and BPMN process models
+**Key Highlights**
+- Led requirements analysis, sprint planning, task allocation, milestone tracking and quality reviews across the project lifecycle
+- Translated project objectives and stakeholder feedback into functional requirements, user stories and BPMN 2.0 process models
 - Built a custom dataset of **6,482 annotated images across 12 ingredient classes**
-- Trained a **YOLOv10-Nano** ingredient detection model achieving **mAP@0.5 of 0.916**
-- Coordinated end-to-end integration and system testing across the computer vision, recommendation, backend and mobile application components
+- Trained **YOLOv10-Nano**, achieving a validated **mAP@0.5 of 0.916**
+- Coordinated end-to-end integration and functional testing across the computer vision model, recommendation engine, backend, database and mobile application
 
-➡️ [View Project](https://github.com/seven8301/recipe_app_new)
-
----
-
-### 🥗 Healthy Meal Delivery — Business & Data Analysis Case Study
-
-**Coming soon**
-
-A retrospective case study of a healthy-meal delivery venture, covering market opportunity identification, customer acquisition, operational process design, financial analysis and business growth.
-
-The business grew daily lunch orders from approximately **50 to 150**, supported by partnerships with **40+ gyms and yoga studios** and expansion into corporate group orders.
+👉 [View Project](https://github.com/seven8301/recipe_app_new)
 
 ---
 
-## 🛠 Core Tools
+### 🥗 Qianmu Healthy Meals — Business Analysis & Venture Project
+**Founder-Led Business Plan | Go-to-Market Strategy | Operations**
 
-SQL • MySQL • Excel • Power BI • Python • Git/GitHub • BPMN • YOLOv10-Nano
+A portfolio project based on a healthy-meal delivery venture I founded and operated, demonstrating how an identified market opportunity was translated into a practical business model and operating service.
 
-## 📫 Connect
+**Key Highlights**
+- Identified customer, delivery, partner and retention pain points and mapped them to proposed business solutions
+- Conducted market, competitor, customer-segmentation and geographic analysis to support launch decisions
+- Designed the service model, partner model, delivery strategy and end-to-end operating process
+- Developed initial budget assumptions and refined startup costs through staffing, equipment, rental and promotional research
+- Grew daily lunch orders from approximately **50 to 200**
+- Established partnerships with **40+ gyms, yoga studios and beauty salons**
+- Expanded from individual meal orders into **corporate group orders**
+- Used **Excel** to coordinate pre-orders, purchasing, meal preparation and delivery
 
-📍 Sydney, Australia
+👉 [View Project](https://github.com/seven8301/healthy-meal-business-analysis)
+
+## 🛠 What I Work With
+
+**Business Analysis**  
+Requirements Analysis · Functional Requirements · User Stories · BPMN · Process Mapping · Business Process Improvement · Stakeholder Engagement
+
+**Data & Analytics**  
+Excel · SQL · MySQL · Power BI · Python · Data Analysis · Data Visualisation · Data Modelling
+
+**AI & Technical**  
+YOLOv10-Nano · Computer Vision · Dataset Development · Git/GitHub · Agile · SDLC
+
+## 🎯 Current Focus
+
+I am currently focused on opportunities in **Business Analysis and Data Analytics**, particularly roles where I can combine business understanding, data analysis, stakeholder engagement and technical knowledge to support practical decision-making and process improvement.
