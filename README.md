@@ -1,10 +1,9 @@
 # Hi, I'm Seven 👋
 
-**Business & Data Analytics | Software Engineering | Sydney, Australia**
+**Data Analytics | Business Analytics | Software Engineering | Sydney, Australia**
 
-Master of Computer Science (Software Engineering) graduate with experience across business analysis, data analysis, project delivery and entrepreneurship.
-
-I enjoy turning business needs and data into practical solutions — from identifying business problems and analysing customer and operational data to improving processes and delivering data and AI projects.
+Master of Computer Science (Software Engineering) graduate with Distinction, with experience in data analytics, business analysis, software projects and business operations.
+I enjoy turning data and business needs into practical solutions — from cleaning and analysing data with SQL and Python to building Power BI dashboards, improving business processes and developing AI-powered applications.
 
 ## 🚀 Featured Projects
 
